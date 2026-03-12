@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from "../../components/home/header/header";
 import Footer from "../../components/home/footer/footer";
-import HeroSection from "../../sectons/herosection";
+import HeroSection from "../../sectons/herosection/herosection";
 import "./home.css";
 
 function Home() {
