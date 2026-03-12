@@ -1,0 +1,17 @@
+:root {
+  color: #213547;
+  --global-font: 'Inter';
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--global-font);
+  font-family: var(--global-font);
+}
+
+body {
+  min-height: 100vh;
+  background-color: #f3f4f6;
+}

@@ -1,0 +1,50 @@
+.main-header {
+    width: 100%;
+    padding: 1rem 2rem;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    max-width: 120px;
+    font-weight: bold;
+}
+
+.logo img {
+    width: 100%;
+    height: 30px;
+    object-fit: contain;
+}
+
+.nav ul {
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+    font-size: 18px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: black;
+}
+
+.btn-group {
+    display: flex;
+    gap: 10px;
+}
+
+.btn-group .ant-btn {
+    border-radius: 50px;
+    font-size: 16px;
+    padding: 0 20px;
+    height: 40px;
+}
+
+.get-in-touch .ant-btn {
+    background-color: rgb(35, 189, 43);
+    color: white;
+}

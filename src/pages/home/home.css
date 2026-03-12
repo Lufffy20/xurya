@@ -1,0 +1,9 @@
+.home-container {
+    width: 80%;
+    height: 1500px;
+    margin: auto;
+    margin-top: 20px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+}
