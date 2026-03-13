@@ -10,10 +10,10 @@ function Home() {
             <div className="home-container">
                 <Header />
                 <HeroSection />
+                <About />
                 <Footer />
             </div>
         </>
     );
 }
-
 export default Home;
