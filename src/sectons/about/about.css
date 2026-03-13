@@ -1,0 +1,38 @@
+.about {
+    width: 100%;
+    max-width: 1460px;
+    margin: auto;
+    margin-top: 78px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: space-between;
+    align-items: center;
+    justify-content: center;
+    /* border: 1px solid black; */
+}
+
+.about-text {
+    width: 50%;
+    max-width: 500px;
+    margin: auto;
+}
+
+.about-text h1 {
+    font-size: 40px;
+    font-weight: 500;
+    margin: 0;
+    color: black;
+}
+
+.about-text-span {
+    color: #808080;
+}
+
+.about-text1 {
+    width: 50%;
+    max-width: 500px;
+    font-size: 20px;
+    color: #888;
+    margin: auto;
+    line-height: 25px;
+}
