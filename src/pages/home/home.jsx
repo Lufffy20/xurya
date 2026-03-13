@@ -2,7 +2,6 @@ import React from 'react';
 import Header from "../../components/home/header/header";
 import Footer from "../../components/home/footer/footer";
 import HeroSection from "../../sectons/herosection/herosection";
-import About from "../../sectons/about/about";
 import "./home.css";
 
 function Home() {
